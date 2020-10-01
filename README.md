@@ -1,4 +1,4 @@
 # hello-world
-bascs
+basics
 hello world,
-Just learning more and more about github and having funn!!
+Just learning more and more about github's workflow and having funn with this amazing platform!!
